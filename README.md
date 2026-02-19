@@ -151,8 +151,8 @@ PORT=5000
 NODE_ENV=development
 
 # Database
-MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/nuptalk
-DATABASE_NAME=nuptalk
+MONGODB_URI=
+DATABASE_NAME=
 
 # Authentication
 JWT_SECRET=your_jwt_secret_key_here
